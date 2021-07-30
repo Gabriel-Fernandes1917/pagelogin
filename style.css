@@ -8,6 +8,10 @@ a{
     text-decoration: none;
 }
 
+h2{
+    color: whitesmoke;
+}
+
 body{
     background-color: #696969;
     
@@ -26,18 +30,39 @@ main{
 
 .TitleBanner{
     margin-left: 5%;
-   
+    color: whitesmoke;
 
 }
 
 .loginsection{
+    display: block;
     background-color: gray;
     margin-left: 35%;
     margin-right: 35%;
     padding-top: 10px;
+    
 }
 
 .userdatabase{
     margin-bottom: 10px;
     
+}
+
+.btns{
+    padding: 10px;
+
+}
+
+.btnlogin{
+    padding: 4px;
+    background-color: g;
+    border: 0;
+
+}
+
+.btnsingin{
+    padding: 4px;
+    background-color: white;
+    border: none;
+
 }
